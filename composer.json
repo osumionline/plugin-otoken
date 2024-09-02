@@ -1,0 +1,14 @@
+{
+  "name": "osumionline/plugin-otoken",
+  "description": "Plugin OToken para Osumi Framework",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Osumi\\OsumiFramework\\Plugins\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.2"
+  }
+}
