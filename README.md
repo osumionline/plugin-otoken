@@ -1,6 +1,6 @@
-Osumi Framework Plugins: OToken
+Osumi Framework Plugins: `OToken`
 
-Este plugin añade la clase OToken al framework con la que se pueden crear y gestionar tokens de tipo JWT. Para usarse hay que pasar una clave con la que firmar el token en el constructor:
+Este plugin añade la clase `OToken` al framework con la que se pueden crear y gestionar tokens de tipo JWT. Para usarse hay que pasar una clave con la que firmar el token en el constructor:
 
 ```php
 $tk = new OToken("1234bf577a76645dbabcdbc379998243ac1c1234");
